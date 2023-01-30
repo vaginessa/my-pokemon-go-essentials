@@ -1,2 +1,3 @@
-# my-pokemon-go-essentials
-My essential Websutes, Tools, Links for Pokemon Go (Android)
+
+## My essential Websites, Tools & Stuff for Pokemon Go (Android)
+
