@@ -8,7 +8,8 @@
 - **https://pokemongo.gishan.net/friends/**
 - **🦋🦋 Vivillon:** https://pokemongo.gishan.net/friends/vivillon/
 - **🇧🇷🇩🇪 by country:** https://pokemongo.gishan.net/friends/friend-codes/
-
+ 
+ 
 - https://www.pokemon-friends.eu/
 
 
